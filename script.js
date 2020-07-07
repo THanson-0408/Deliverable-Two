@@ -16,7 +16,7 @@ if (groupSize <= 2){
 }else if (groupSize == 3 || groupSize == 4 || groupSize == 5){
   travelSuggestion= "helicopter";
 }else if (groupSize >= 6){
-  travelSuggestion= "charter Flight";
+  travelSuggestion= "charter flight";
 }
 
 
